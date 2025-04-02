@@ -6,11 +6,11 @@ This project is a Spam Email Detector that classifies emails as spam or ham (not
 
 🔗 Live Demo
 
-Click here to view the live project
+https://spam-email-detector-2.onrender.com/
 
 🔗 GitHub Repository
 
-Click here to view the repository
+https://github.com/CodeWithDks/Spam_Email_Detector/tree/master
 
 🏆 Recognition & Certification
 
